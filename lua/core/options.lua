@@ -11,6 +11,7 @@ vim.opt.scrolloff = 8
 
 vim.opt.updatetime = 50
 
+vim.cmd('set relativenumber')
 vim.cmd('set number')
 vim.cmd('colorscheme gruvbox')
 

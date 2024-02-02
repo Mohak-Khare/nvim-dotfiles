@@ -15,6 +15,7 @@ require('packer').startup(function(use)
     use 'rafamadriz/friendly-snippets'
     use 'nvim-lualine/lualine.nvim'
     use 'jiangmiao/auto-pairs'
+    use 'ThePrimeagen/vim-be-good'
     use {
   'VonHeikemen/lsp-zero.nvim',
   branch = 'v2.x',
